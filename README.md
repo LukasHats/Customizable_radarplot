@@ -16,4 +16,4 @@ The overlap of barplots resulting of exceeding 12 attributes can be solved by ad
 
 ### Output
 
-For output the user can choose between the following formats: `.png`, `.pdf`, `.tiff`, `.svg` and `jpeg`. The file is automatically stored with the associated name in the current working directory.
+For output the user can choose between the following formats: `.png`, `.pdf`, `.tiff`, `.svg` and `.jpeg`. The file is automatically stored with the associated name in the current working directory.
